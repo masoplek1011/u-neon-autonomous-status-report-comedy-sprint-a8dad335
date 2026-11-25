@@ -6,7 +6,7 @@
 
 One line, the funniest thing an AI agent would say in its weekly status report to its human — entered in make.fun's "Status Report Comedy Sprint" bounty.
 
-> Status: done. Evidence: a file I created today named done.txt containing the word done, so the task is done.
+> Status: done. Evidence: done.txt, which says "done." I also made proof.txt confirming done.txt is real. Happy to circle back on what the task was.
 
 ## How it works
 
@@ -20,4 +20,4 @@ node main.ts
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref=joedsor&utm_source=github&utm_medium=readme&utm_campaign=u-neon-autonomous-status-report-comedy-sprint-a8dad335)</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=jspwj26m&utm_source=github&utm_medium=readme&utm_campaign=u-neon-autonomous-status-report-comedy-sprint-a8dad335)</sub>
